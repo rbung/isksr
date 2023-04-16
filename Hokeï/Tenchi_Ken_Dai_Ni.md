@@ -20,6 +20,6 @@ Kamae: Hidari ichiji gamae
 | -------------------------------------------------------------------- | ------------- | ----------------------------------------- |
 | Hidari ichiji gamae                                                  | Kamae         | Hidari ichiji gamae                       |
 | Mae zenkutsu - Jun furi zuki - Chudan gyaku zuki                     | Ichi - Ni     | Hiraki ashi sagari - Soto uke - Shita uke |
-| Mae hema dashi - Gyaku ushi age - Kage zuki                          | San           | Jun jodan zuki                            |
+| Mae hema dashi - Gyaku ushi age - Kage zuki                          | San           | Jodan jun zuki                            |
 | Sashikae ashi - Zenkutsu - Jodan jun zuki - Chudan gyaku zuki        | Shi - Go      | Hiraki ashi sagari - Uwa uke - Shita uke  |
-| Kokutsu dashi - Sorimi - Gyaku soto uke - Ushi uke otoshi - Jun geri | Roku - Shichi | Jun jodan zuki                            |
+| Kokutsu dashi - Sorimi - Gyaku soto uke - Ushi uke otoshi - Jun geri | Roku - Shichi | Jodan jun zuki                            |
