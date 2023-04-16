@@ -9,7 +9,7 @@ Kamae: Hidari chudan gamae
 | Ichi   | Mae zenkutsu - Jodan jun zuki                   |
 | Ni     | Mae zenkutsu - Chudan gyaku zuki                |
 | San    | Mae hema dashi - Chudan kage zuki               |
-| Shi    | Hiraki ashi sagari - Sorini - Uwa uke           |
+| Shi    | Hiraki ashi sagari - Sorimi - Uwa uke           |
 | Go     | Ushiro - Neko ashi dashi - Hikimi - Ren ke      |
 | Roku   | Ushiro - Neko ashi dashi - Keisshin - Hareï uke |
 | Shichi | Chudan jun geri                                 |
