@@ -1,25 +1,26 @@
-# Tenchi Ken Daï Ni
+# Tenchiken Daï Nikkeï
 
 ## Tan En
 
-Kamae: Hidari ichiji gamae
+Kamae: Kesshu gamae - Chosoku - Happomoku - Ichiji gamae
 
-| Goreï         | Hokeï                                                                |
-| ------------- | -------------------------------------------------------------------- |
-| Ichi - Ni     | Mae zenkutsu - Jun furi zuki - Chudan gyaku zuki                     |
-| San           | Mae hema dashi - Gyaku ushi age - Kage zuki                          |
-| Shi - Go      | Sashikae ashi - Zenkutsu - Jodan jun zuki - Chudan gyaku zuki        |
-| Roku - Shichi | Kokutsu dashi - Sorimi - Gyaku soto uke - Ushi uke otoshi - Jun geri |
-| Hachi         | Hiraki ashi sagari                                                   |
+| Goreï         | Hokeï                                |
+| ------------- | ------------------------------------ |
+| Ichi - Ni     | Mae furi zuki - Chudan gyaku zuki    |
+| San           | Ushi age uke - Kagi zuki             |
+| Shi - Go      | Sashikae ashi - Jo chudan niren zuki |
+| Roku - Shichi | Nio uke - Jun geri                   |
+| Hachi         | Shita uke sagari                     |
 
-Kamae: Hidari ichiji gamae
+Kamae: Ichiji gamae
 
 ## Sotaï
 
-| Kogeki                                                               | Goreï         | Hokeï                                     |
-| -------------------------------------------------------------------- | ------------- | ----------------------------------------- |
-| Hidari ichiji gamae                                                  | Kamae         | Hidari ichiji gamae                       |
-| Mae zenkutsu - Jun furi zuki - Chudan gyaku zuki                     | Ichi - Ni     | Hiraki ashi sagari - Soto uke - Shita uke |
-| Mae hema dashi - Gyaku ushi age - Kage zuki                          | San           | Jodan jun zuki                            |
-| Sashikae ashi - Zenkutsu - Jodan jun zuki - Chudan gyaku zuki        | Shi - Go      | Hiraki ashi sagari - Uwa uke - Shita uke  |
-| Kokutsu dashi - Sorimi - Gyaku soto uke - Ushi uke otoshi - Jun geri | Roku - Shichi | Jodan jun zuki                            |
+| Kogeki                               | Goreï         | Hokeï                                          |
+| ------------------------------------ | ------------- | ---------------------------------------------- |
+| Ichiji gamae                         | Kamae         | Ichiji gamae                                   |
+| Mae furi zuki - Chudan gyaku zuki    | Ichi - Ni     | Hiraki ashi sagari - Soto oshi uke - Shita uke |
+| Ushi age uke - Kagi zuki             | San           | Jodan jun zuki                                 |
+| Sashikae ashi - Jo chudan niren zuki | Shi - Go      | Hiraki ashi sagari - Uwa uke - Shita uke       |
+| Nio uke - Jun geri                   | Roku - Shichi | Jodan jun zuki                                 |
+| Shita uke sagari                     | Hachi         | Shita uke sagari                               |
