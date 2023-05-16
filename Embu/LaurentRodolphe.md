@@ -21,7 +21,7 @@
       <td>Jun Sokuto Geri</td>
     </tr>
     <tr>
-      <td>*Chudan Gaeshi to Uchi Uke Zuki*</td>
+      <td>Chudan Gaeshi to Uchi Uke Zuki</td>
       <td></td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan="2">Zanshin</td>
+      <td colspan="2"><strong>Zanshin (début phase 2)</strong></td>
     </tr>
     <tr>
       <td></td>
@@ -56,7 +56,7 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan="2">Zanshin</td>
+      <td colspan="2"><strong>Zanshin (début phase 3)</strong></td>
     </tr>
     <tr>
       <td>Ren Uke</td>
@@ -83,7 +83,7 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan="2">Zanshin</td>
+      <td colspan="2"><strong>Zanshin (début phase 4)</strong></td>
     </tr>
     <tr>
       <td colspan="2">Baisse la garde et avance pour se serrer la main</td>
