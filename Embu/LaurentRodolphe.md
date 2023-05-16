@@ -3,8 +3,8 @@
 <table>
   <thead>
     <tr>
-      <td>Rodolphe</td>
-      <td>Laurent</td>
+      <th>Rodolphe</th>
+      <th>Laurent</th>
     </tr>
   </thead>
   <tbody>
