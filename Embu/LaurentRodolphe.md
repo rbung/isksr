@@ -1,156 +1,112 @@
 # Embu
 
-| Rodolphe                                         | Laurent                     |
-| ------------------------------------------------ | --------------------------- |
-| Idari Chudan Gamae                               | Idari Chudan Gamae          |
-| Jodan Gyaku Zuki                                 |                             |
-|                                                  | Jun Sokuto Geri             |
-| Chudan Gaeshi to Uchi Uke Zuki                   |                             |
-|                                                  | Ushiro - Migi Ichiji Gamae  |
-| Konoha Okuri                                     |                             |
-| Zanshin                                          |                             |
-|                                                  | Fukko Chi Ni                |
-| Migi Ichiji Gamae                                |                             |
-| Jun Geri Chi San                                 |                             |
-| Ren Han Ko                                       |                             |
-| Kiri Gaeshi Gote                                 |                             |
-| Zanshin                                          |                             |
-| Ren Uke                                          | Jo Chu Niren Zuki           |
-|                                                  | Dan Geri Sampo Uke Dan Geri |
-|                                                  | Migi Chudan Gamae           |
-| Saisie - Mawashi Zuki                            | Okuri Shi Shi Dori          |
-| Se relève                                        | Migi Chudan Gamae           |
-| Gyaku Katate Nage                                |                             |
-| Zanshin                                          |                             |
-| Baisse la garde et avance pour se serrer la main |                             |
-|                                                  | Nigiri Gaeshi               |
-| Se relève                                        | Gyaku Taïki Gamae           |
-| Cours vers Laurent                               |                             |
-|                                                  | Matsukaze Gaeshi            |
-
 <table>
-  <tr>
-    <td colspan="4">
-      Available
-    </td>
-    <td rowspan="2">
-      Processes
-    </td>
-    <td colspan="4">
-      Allocation
-    </td>
-    <td colspan="4">
-      Max
-    </td>
-  </tr>
-  <tr>
-    <td>
-      A
-    </td>
-    <td>
-      B
-    </td>
-    <td>
-      C
-    </td>
-    <td>
-      D
-    </td>
-    <td>
-      A
-    </td>
-    <td>
-      B
-    </td>
-    <td>
-      C
-    </td>
-    <td>
-      D
-    </td>
-    <td>
-      A
-    </td>
-    <td>
-      B
-    </td>
-    <td>
-      C
-    </td>
-    <td>
-      D
-    </td>
-  </tr>
-  <tr>
-    <td>
-      1
-    </td>
-    <td>
-      5
-    </td>
-    <td>
-      2
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      P0
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      1
-    </td>
-    <td>
-      2
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      1
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-    </td>
-    <td>
-      P1
-    </td>
-    <td>
-      1
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      0
-    </td>
-    <td>
-      1
-    </td>
-    <td>
-      7
-    </td>
-    <td>
-      5
-    </td>
-    <td>
-      0
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <td>Rodolphe</td>
+      <td>Laurent</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Idari Chudan Gamae</td>
+      <td>Idari Chudan Gamae</td>
+    </tr>
+    <tr>
+      <td>Jodan Gyaku Zuki</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Jun Sokuto Geri</td>
+    </tr>
+    <tr>
+      <td>Chudan Gaeshi to Uchi Uke Zuki</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ushiro - Migi Ichiji Gamae</td>
+    </tr>
+    <tr>
+      <td>Konoha Okuri</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Zanshin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Fukko Chi Ni</td>
+    </tr>
+    <tr>
+      <td>Migi Ichiji Gamae</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jun Geri Chi San</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ren Han Ko</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kiri Gaeshi Gote</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Zanshin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ren Uke</td>
+      <td>Jo Chu Niren Zuki</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Dan Geri Sampo Uke Dan Geri</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Migi Chudan Gamae</td>
+    </tr>
+    <tr>
+      <td>Saisie - Mawashi Zuki</td>
+      <td>Okuri Shi Shi Dori</td>
+    </tr>
+    <tr>
+      <td>Se relève</td>
+      <td>Migi Chudan Gamae</td>
+    </tr>
+    <tr>
+      <td>Gyaku Katate Nage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Zanshin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Baisse la garde et avance pour se serrer la main</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Nigiri Gaeshi</td>
+    </tr>
+    <tr>
+      <td>Se relève</td>
+      <td>Gyaku Taïki Gamae</td>
+    </tr>
+    <tr>
+      <td>Cours vers Laurent</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Matsukaze Gaeshi</td>
+    </tr>
+  </tbody>
 </table>
