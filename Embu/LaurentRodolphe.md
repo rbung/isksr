@@ -32,7 +32,7 @@
       <td>Konoha Okuri</td>
       <td></td>
     </tr>
-    <tr>
+    <tr style="backgroundColor:green;">
       <td colspan="2"><strong>Zanshin (début phase 2)</strong></td>
     </tr>
     <tr>
