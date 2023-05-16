@@ -32,7 +32,7 @@
       <td>Konoha Okuri</td>
       <td></td>
     </tr>
-    <tr style="backgroundColor:green;">
+    <tr style="background-color:green;">
       <td colspan="2"><strong>Zanshin (début phase 2)</strong></td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
       <td>Kiri Gaeshi Gote</td>
       <td></td>
     </tr>
-    <tr>
+    <tr style="background-color:green;">
       <td colspan="2"><strong>Zanshin (début phase 3)</strong></td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@
       <td>Gyaku Katate Nage</td>
       <td></td>
     </tr>
-    <tr>
+    <tr style="background-color:green;">
       <td colspan="2"><strong>Zanshin (début phase 4)</strong></td>
     </tr>
     <tr>
