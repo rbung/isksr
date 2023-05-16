@@ -21,7 +21,7 @@
       <td>Jun Sokuto Geri</td>
     </tr>
     <tr>
-      <td>Chudan Gaeshi to Uchi Uke Zuki</td>
+      <td>*Chudan Gaeshi to Uchi Uke Zuki*</td>
       <td></td>
     </tr>
     <tr>
