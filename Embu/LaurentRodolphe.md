@@ -9,8 +9,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>Idari Chudan Gamae</td>
-      <td>Idari Chudan Gamae</td>
+      <td>Hidari Chudan Gamae</td>
+      <td>Hidari Chudan Gamae</td>
     </tr>
     <tr>
       <td>Jodan Gyaku Zuki</td>
@@ -33,8 +33,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Zanshin</td>
-      <td></td>
+      <td colspan="2">Zanshin</td>
     </tr>
     <tr>
       <td></td>
@@ -57,8 +56,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Zanshin</td>
-      <td></td>
+      <td colspan="2">Zanshin</td>
     </tr>
     <tr>
       <td>Ren Uke</td>
@@ -85,12 +83,10 @@
       <td></td>
     </tr>
     <tr>
-      <td>Zanshin</td>
-      <td></td>
+      <td colspan="2">Zanshin</td>
     </tr>
     <tr>
-      <td>Baisse la garde et avance pour se serrer la main</td>
-      <td></td>
+      <td colspan="2">Baisse la garde et avance pour se serrer la main</td>
     </tr>
     <tr>
       <td></td>
